@@ -1,0 +1,13 @@
+----- 11/23/23 17:39:35 -----
+Traceback (most recent call last):
+  File "D:\Python\projects\chess\Python_Chess_Game\main.py", line 161, in play_as
+    CLOCK.tick(CLOCK_TICK)
+KeyboardInterrupt
+
+Playing as WHITE:
+	a2a4 e7e5
+	rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+	rnbqkbnr/pppppppp/8/8/P7/8/1PPPPPPP/RNBQKBNR b KQkq a3 0 1
+	rnbqkbnr/pppp1ppp/8/4p3/P7/8/1PPPPPPP/RNBQKBNR w KQkq e6 0 2
+-----------------------------
+
